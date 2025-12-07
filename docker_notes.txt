@@ -1,4 +1,4 @@
-Containers have revolutionized how software is packaged ans shipped.
+Containers have revolutionized how software is packaged and shipped.
 
 It works on my machine though. Why does this happen?
 - Missing tools
