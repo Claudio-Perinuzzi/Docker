@@ -1,0 +1,19 @@
+Containers have revolutionized how software is packaged ans shipped.
+
+It works on my machine though. Why does this happen?
+- Missing tools
+- Different configuration
+- Hardware dependencies
+
+Previous Solutions:
+- Configuration management tools (Chef, Puppet, Ansible)
+    - Require knowledge about hardware and operating systems
+- Virtual machines as code (Vagrant)
+    - Heavy, slowish, require inconvenient configuration
+
+Docker aims to take a simpler approach
+    - Docker uses images and containers to allow apps to run anywhere, consistently
+    - Images run on containers
+    - Images are created from lightweight configuration files that describe everything your app needs to run
+
+- Unlike virtual machines, containers are virtualized operating systems that are configured with just enough to run your app and nothing else. 
